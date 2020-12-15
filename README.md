@@ -1,2 +1,2 @@
-# boldyrev
-Презентация по теме "История приближённого решения алгебраических и трансцендентных уравнений""
+# beamer
+Presentations created with latex beamer template.
